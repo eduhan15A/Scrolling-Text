@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">The Beatles</string>
+    <string name="article_subtitle">Historia</string>
+    <string name="article_text">
+        Grupo británico de música rock y pop, el más admirado y popular de la década de 1960 y uno de los más influyentes en la historia de la música moderna. Si el gran Elvis Presley dominó los años 50 como rey del rock and roll, correspondió a The Beatles, un grupo también rockero en sus raíces, ejercer la hegemonía en la década siguiente con una acertadísima y sofisticada amalgama de estilos que llevaría la música pop a todos los públicos y preludió géneros posteriores.
+        \n En tanto que referencia de la juventud de los 60, de cuya rebeldía fueron manifestaciones fenómenos como el movimiento hippie o mayo del 68, y también en tanto que producto de consumo en una década de modas y prosperidad, hubiera podido esperarse que el fervor suscitado por aquel riquísimo vendaval musical se desvaneciese lentamente tras la disolución del grupo. Sin embargo, medio siglo después, las mejores canciones de The Beatles siguen sin parecer «antiguas»: conservan intacta su frescura y parecen haber ingresado en una especie de patrimonio atemporal, como si su música ya no perteneciese a una época, sino a todas las generaciones.
+       \n
+        https://www.biografiasyvidas.com/biografia/b/beatles.htm
+        \nA partir de 1962, año en que quedó configurado de forma estable, y hasta su separación oficial en 1970, los integrantes de The Beatles fueron John Lennon (Liverpool, 1940-Nueva York, 1980), Paul McCartney (Liverpool, 1942), George Harrison (Liverpool, 1943-Los Ángeles, 2001) y Ringo Starr (Liverpool, 1940). No obstante, es difícil dar una fecha exacta de cuándo se formaron The Beatles. En la segunda mitad de la década de 1950, John Lennon y su amigo Peter Shotton (que lo abandonaría poco después) formaron un grupo de música al que llamaron The Quarrymen, al cual en 1957 se añadió Paul McCartney, seguido poco más tarde por George Harrison.
+       \n The Quarrymen empezó a tocar en diversos locales de Liverpool, momento en el que se les unió el bajista Stuart Sutcliffe. Ya por entonces resultaba evidente la necesidad de incorporar a un batería. El nombre del grupo iría sufriendo nuevas variaciones, desde Johnny and the Moondogs hasta The Silver Beatles y The Beatles (1960), que a la postre resultaría el definitivo; tal denominación surgió de la moda de poner nombres de animales a los grupos musicales (beetle significa «escarabajo») y del juego de palabras con el estilo que entonces practicaban (la música beat, «golpe»).
+       \n
+        Finalmente incorporaron a un batería, Peter Best, y consiguieron un contrato para tocar en Hamburgo, en un local de dudosa fama llamado Kaiserkeller. Su primera aventura alemana terminó prematuramente con la expulsión de George Harrison del país debido a su minoría de edad; la misma suerte corrieron luego Paul McCartney y Peter Best, aunque no por minoría de edad, sino por gamberrismo.
+
+    </string>
+</resources>
